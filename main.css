@@ -1,6 +1,8 @@
 
 body {
   font-family: Roboto, sans-serif;
+  /*цвет фона*/
+  background-color: #f4f5fa;
 }
 
 .container {
@@ -18,7 +20,7 @@ a {
 
   /* Что делать при наведении на ссылку */
 a:hover {
-  color:green;
+  color:red;
 }
 
   /* Этим свойством добавляем подчеркивание через создание псевдокласса */
@@ -54,4 +56,18 @@ h2 {
   /* Эффект наведения на картинку */
 .photo:hover {
   border: 3px solid turquoise;
+}
+ /*цвет наведения накнопку*/
+button:hover {
+  color: red;
+
+}
+/*цвет текста на кнопке*/
+button {
+  color: white;
+  border-radius: 5px; /* Закругление уголков кнопки */
+}
+/*цвет фона на кнопке*/
+button {
+  background-color: #0f79d5;
 }
