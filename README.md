@@ -1,3 +1,3 @@
 # cv
-сайт-визитка на html +css +js
+Cайт-визитка на html +css +js
 # Solodoshkin
